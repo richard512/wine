@@ -2,6 +2,12 @@
 
 This repo contains data describing wineries and related info for the livermore, dublin, pleasanton area and beyond
 
+## Overview
+
+```vineyards_california.csv``` and ```vineyards_usa.csv``` are somewhat big. They show the name and location of any company that applies to be legally able to produce and sell wine.
+
+The other files show the prices, ratings, and other info related to a small sample of wineries.
+
 ## Example Wineries
 
 | Winery Name | Google Maps | Yelp | Official wine list | Google Shopping | Local stores sightings |
