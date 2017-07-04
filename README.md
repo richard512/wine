@@ -2,15 +2,15 @@
 
 This repo contains data describing wineries and related info for the livermore, dublin, pleasanton area and beyond
 
-## Overview
+### The files
 
 ```vineyards_california.csv``` and ```vineyards_usa.csv``` are somewhat big. They show the name and location of any company that applies to be legally able to produce prodigious quantities of wine. Updated info available via [US Treasury FOIA](https://www.ttb.gov/foia/frl.shtml).
+
+The other files show the prices, ratings, and other info related to a small sample of wineries.
 
 ### Perspective
 
 California definitely has the largest number of registered wine producers at 4,653. Washington is at #2 with 1,019. About half of all registered wine producers are in California.
-
-The other files show the prices, ratings, and other info related to a small sample of wineries.
 
 ## Example Wineries
 
