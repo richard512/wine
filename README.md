@@ -4,26 +4,7 @@ This repo contains data describing wineries and related info for the livermore, 
 
 ## Example wineries
 
-### Concannon
-
-Page 1 of Google Maps for "livermore wineries"
-
-[Yelp](https://www.yelp.com/biz/concannon-vineyard-livermore) -- 376 reviews
-
-[Official wine list](http://shop.concannonvineyard.com/index.cfm?method=storeproducts.showlist) -- Lots of wines
-
-[Google Shopping](https://www.google.com/webhp#tbm=shop&q=concannon+wine) -- A few of their wines, available at a variety of online wine stores
-
-At local stores: I've seen their wine for sale
-
-### Page Mill Winery
-
-Page 1 of Google Maps for "livermore wineries"
-
-[Yelp](https://www.yelp.com/biz/page-mill-winery-livermore) -- 86 reviews
-
-[Official wine list](https://pagemillwinery.com/wine/) -- Multiple wines
-
-[Google Shopping](https://www.google.com/webhp#tbm=shop&q=Page+Mill+Wine) -- None of their wines
-
-At local stores: I don't think I've seen their wine for sale
+| Winery Name | Google Maps page | Yelp | Google Shopping | Local stores sightings |
+| --- | --- | --- | --- | --- |
+| Concannon |  Page 1 |  [Yelp](https://www.yelp.com/biz/concannon-vineyard-livermore) -- 376 reviews |  [Official wine list](http://shop.concannonvineyard.com/index.cfm?method=storeproducts.showlist) -- Lots of wines |  [Google Shopping](https://www.google.com/webhp#tbm=shop&q=concannon+wine) -- Some |
+| Page Mill Winery |  Page 1 | [Yelp](https://www.yelp.com/biz/page-mill-winery-livermore) -- 86 reviews | [Official wine list](https://pagemillwinery.com/wine/) -- Multiple wines | [Google Shopping](https://www.google.com/webhp#tbm=shop&q=Page+Mill+Wine) -- None | Nope
