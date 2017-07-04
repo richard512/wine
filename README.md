@@ -16,7 +16,9 @@ The other files show the prices, ratings, and other info related to a small samp
 
 90% of all USA wine is produced in California
 
-Lots of little wineries and a few massive ones
+Lots of little wineries and a few huge ones
+
+The few huge wineries are in the stores. The many little wineries probably aren't
 
 ## Example Wineries
 
