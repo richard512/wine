@@ -14,7 +14,9 @@ The other files show the prices, ratings, and other info related to a small samp
 
 1,019 in Washington (State #2 by number of wine producers)
 
-90% of all USA wine is produced in California.
+90% of all USA wine is produced in California
+
+A small percentage of the wineries do GREAT, and the others probably desperately want people to know about their winery
 
 ## Example Wineries
 
