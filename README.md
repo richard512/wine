@@ -10,7 +10,11 @@ The other files show the prices, ratings, and other info related to a small samp
 
 ### Perspective
 
-California definitely has the largest number of registered wine producers at 4,653. Washington is at #2 with 1,019. About half of all registered USA wine producers are in California. I read a thing that said about 86% of all USA wine is produced in California, but don't quote me on that.
+4,653 wine producers in California
+
+1,019 in Washington (State #2 by number of wine producers)
+
+90% of all USA wine is produced in California.
 
 ## Example Wineries
 
