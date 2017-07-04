@@ -12,7 +12,9 @@ Page 1 of Google Maps for "livermore wineries"
 
 [Official wine list](http://shop.concannonvineyard.com/index.cfm?method=storeproducts.showlist) -- Lots of wines
 
-[Google Shopping](https://www.google.com/webhp#tbm=shop&q=concannon+wine) -- A few of their wines
+[Google Shopping](https://www.google.com/webhp#tbm=shop&q=concannon+wine) -- A few of their wines, available at a variety of online wine stores
+
+At local stores: I've seen their wine for sale
 
 ### Page Mill Winery
 
@@ -23,3 +25,5 @@ Page 1 of Google Maps for "livermore wineries"
 [Official wine list](https://pagemillwinery.com/wine/) -- Multiple wines
 
 [Google Shopping](https://www.google.com/webhp#tbm=shop&q=Page+Mill+Wine) -- None of their wines
+
+At local stores: I don't think I've seen their wine for sale
