@@ -1,5 +1,7 @@
 # wine
 
+This repo contains data describing wineries and related info for the livermore area and beyond
+
 ## Example wineries
 
 ### Concannon
