@@ -6,7 +6,7 @@ This repo contains data describing wineries and related info for the livermore, 
 
 ```vineyards_california.csv``` and ```vineyards_usa.csv``` are somewhat big. They show the name and location of any company that applies to be legally able to produce prodigious quantities of wine. Updated info available via [US Treasury FOIA](https://www.ttb.gov/foia/frl.shtml).
 
-The other files show the prices, ratings, and other info related to a small sample of wineries.
+The other files show the prices, ratings, and other info related to wine.
 
 ### Perspective
 
