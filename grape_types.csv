@@ -1,0 +1,1535 @@
+id,name,seo_name,has_detailed_info,wines_count
+1,Shiraz/Syrah,shiraz-syrah,true,260100
+2,Cabernet Sauvignon,cabernet-sauvignon,true,413414
+3,Cabernet Franc,cabernet-franc,true,131889
+5,Chardonnay,chardonnay,true,292147
+6,Chenin Blanc,chenin-blanc,true,25998
+7,Gewurztraminer,gewurztraminer,true,29761
+8,Grenache,grenache-noir,true,97155
+9,Malbec,malbec,true,111986
+10,Merlot,merlot,true,287645
+11,Muscat Blanc,muscat-blanc,false,13565
+12,Nebbiolo,nebbiolo,true,30014
+13,Pinot Gris,pinot-gris,true,30869
+14,Pinot Noir,pinot-noir,true,278731
+15,Riesling,riesling,true,135719
+16,Sangiovese,sangiovese,true,68010
+17,Sauvignon Blanc,sauvignon-blanc,true,132452
+18,Sémillon,semillion,true,29120
+19,Tempranillo,tempranillo,true,90886
+20,Viognier,viognier,true,40876
+21,Zinfandel,zinfandel,true,39583
+22,Mourvedre,mourvedre,true,43280
+23,Roussanne,roussanne,false,13735
+24,Marsanne,marsanne,false,9567
+25,Petite Sirah,petite-sirah,false,17891
+26,Cynthiana,cynthiana,false,96
+27,Norton,norton,false,633
+28,Muscadine,muscadine,false,900
+29,Arneis,arneis,false,3245
+31,Barbera,barbera,true,27510
+32,Counoise,counoise,false,1508
+33,Ribolla Gialla,ribolla-gialla,false,2692
+34,Pinot Grigio,pinot-grigio,true,25804
+35,Teroldego,teroldego,false,1765
+36,Pinot Blanc,pinot-blanc,false,26946
+37,Dolcetto,dolcetto,false,6960
+38,Palomino,palomino,false,3972
+39,Malvasia,malvasia,false,13240
+40,Alicante Bouschet,alicante-bouschet,false,10978
+41,Carignan,carignane,true,24235
+42,Petit Verdot,petit-verdot,true,42221
+43,Corvina,corvina,false,11697
+44,Dindarella,dindarella,false,109
+45,Rondinella,rondinella,false,10335
+46,Molinara,molinara,false,6595
+47,Croatina,croatina,false,1892
+48,Tannat,tannat,false,13697
+49,Albarino,albarino,false,7371
+50,Aligoté,aligote,false,3979
+51,Carménère,carmenere,true,27741
+52,Colombard,colombard,false,3946
+53,Colorino del Valdarno,colorino-del-valdarno,false,940
+54,Grechetto,grechetto,false,1809
+55,Trebbiano,trebbiano,false,8356
+56,Grenache Blanc,grenache-blanc,false,14732
+57,Mazuelo,mazuelo,false,4150
+58,Montepulciano,montepulciano-d-abruzzo,false,13323
+59,Moscato,moscato,false,17004
+61,Muscat de Frontignan,muscat-de-frontignan,false,374
+62,Pinotage,pinotage,false,9180
+63,Prugnolo Gentile,prugnolo-gentile,false,376
+64,Canaiolo Nero,canaiolo-nero,false,2391
+65,Mammolo,mammolo,false,341
+66,Ruby Cabernet,ruby-cabernet,false,1078
+67,Touriga Nacional,touriga-nacional,true,36208
+68,Touriga Franca,touriga-franca,false,15112
+69,Tinta Roriz,tinta-roriz,false,17032
+70,Tinto Cao,tinto-cao,false,4185
+71,Tinta Barroca,tinta-barroca,false,7346
+72,Arinarnoa,arinarnoa,false,207
+74,Bonarda,bonarda,false,7746
+75,Cinsault,cinsault,false,16744
+76,Clairette,clairette,false,5253
+77,Cortese,cortese,false,2902
+78,Freisa,freisa,false,908
+79,Frontenac,frontenac,false,833
+80,Gamay,gamay,false,24194
+81,Graciano,graciano,false,6392
+82,Lagrein,lagrein,false,3307
+83,Macabeo,macabeo,false,11761
+85,Xarel-lo,xarello,false,7518
+86,Parellada,parellada,false,5130
+87,Malvasia di Schierano,malvasia-di-schierano,false,28
+88,Monastrell,monastrell,false,8717
+89,Muscadelle,muscadelle,false,4296
+91,Verdelho,verdelho,false,4856
+92,Primitivo,primitivo,false,14739
+93,Torrontés,torrontes,false,7748
+94,Trepat,trepat,false,653
+96,Viura,viura,false,5708
+97,Aglianico,aglianico,false,7465
+98,Albana,albana,false,715
+99,Bombino Nero,bombino-nero,false,129
+100,Negroamaro,negroamaro,false,7062
+101,Cannonau,cannonau,false,2042
+102,Falanghina,falanghina,false,3201
+103,Fiano,fiano,false,3335
+104,Garganega,garganega,false,4600
+105,Tocai Friulano,tocai-friulano,false,1223
+106,Grillo,grillo,false,3340
+107,Montuni,montuni,false,57
+108,Nero d'Avola,nero-d-avola,false,11529
+109,Pignoletto,pignoletto,false,1040
+110,Pinot Meunier,pinot-meunier,false,13469
+111,Procanico,procanico,false,299
+112,Glera (Prosecco),glera-prosecco,true,15292
+114,Sylvaner,sylvaner,false,4139
+115,Terrano,terrano,false,580
+116,Verdeca,verdeca,false,446
+117,Bianco d'Alessano,bianco-dalessano,false,228
+118,Verdejo,verdejo,false,8463
+119,Vermentino,vermentino,false,11982
+120,Vernaccia,vernaccia,false,977
+121,Acolon,acolon,false,860
+122,Aleatico,aleatico,false,730
+123,Alfrocheiro Preto,alfrocheiro-preto,false,3052
+124,Jaen,jaen,false,1421
+127,Aragonez,aragonez,false,12491
+128,Arinto de Bucelas,arinto-de-bucelas,false,9066
+129,Baga,baga,false,2392
+130,Biancame,biancame,false,81
+131,Bobal,bobal,false,2440
+132,Bourboulenc,bourboulenc,false,2538
+133,Cabernet Dorsa,cabernet-dorsa,false,954
+134,Cabernet Mitos,cabernet-mitos,false,508
+135,Cariñena,carinena,false,3763
+136,Castelao,castelao,false,4941
+137,Cencibel,cencibel,false,247
+138,Dornfelder,dornfelder,false,9812
+140,Feteasca,feteasca,false,189
+141,Feteasca Alba,feteasca-alba,false,650
+142,Garnacha,garnacha,true,27817
+143,Garnacha Blanca,garnacha-blanca,false,2976
+144,Garnacha Tinta,garnacha-tinta,false,2580
+145,Gouveio,gouveio,false,2688
+146,Grasa de Cotnari,grasa-de-Cotnari,false,50
+147,Grauburgunder,grauburgunder,false,9697
+148,Lemberger,lemberger,false,3121
+149,Loureiro,loureiro,false,2430
+150,Marzemino,marzemino,false,1433
+151,Mataro,mataro,false,1856
+152,Moscatel de Alejandría,moscatel-de-alejandria,false,1823
+153,Moscatel de grano menudo,moscatel-de-grano-menudo,false,579
+154,Muscat Noir,muscat-noir,false,859
+155,Muscat Ottonel,muscat-ottonel,false,1882
+156,Muscatel,muscatel,false,3312
+157,Negrette,negrette,false,693
+158,Passerina,passerina,false,1416
+159,Pecorino,pecorino,false,2667
+160,Petit Bouschet,petit-bouschet,false,26
+161,Rabigato,rabigato,false,3099
+162,Refosco dal Peduncolo rosso,refosco-dal-peduncolo-rosso,false,1238
+163,Tamaioasa,tamaioasa,false,44
+164,Tamaioasa Romaneasca,tamaioasa-romaneasca,false,335
+165,Tamarez,tamarez,false,121
+166,Tinta Amarela,tinta-amarela,false,1843
+167,Tinta de toro,tinta-de-toro,false,2091
+168,Tinta Miuda,tinta-miuda,false,417
+169,Tinto Fino,tinto-fino,false,1576
+170,Tocai Italico,tocai-italico,false,225
+171,Trajadura,trajadura,false,944
+172,Traminer,traminer,false,4845
+173,Trincadeira das Pratas,trincadeira-das-pratas,false,178
+174,Trousseau,trousseau,false,1046
+175,Ugni blanc,ugni-blanc,false,3214
+176,Verdicchio,verdicchio,false,2931
+177,Verduzzo Friulano,verduzzo-friulano,false,441
+178,Viosinho,viosinho,false,3743
+179,Alvarelhao,alvarelhao,false,216
+180,Ansonica,ansonica,false,452
+181,Aspiran Bouchet,aspiran-bouchet,false,35
+183,Caiño Blanco,caino-blanco,false,180
+184,Catarratto Bianco,catarratto-bianco,false,2222
+185,Catawba,catawba,false,435
+186,Chambourcin,chambourcin,false,2381
+187,Chardonel,chardonel,false,487
+188,Concord,concord,false,951
+189,Flora,flora,false,75
+190,Frappato,frappato,false,675
+191,Fumé Blanc,fume-blanc,false,537
+192,Grecanico,grecanico,false,749
+193,Lenoir,lenoir,false,90
+194,Mission,mission,false,217
+195,Niagara,niagara,false,1007
+196,Orange Muscat,orange-muscat,false,348
+197,Picardan,picardan,false,96
+198,Pignolo,pignolo,false,360
+199,Pinot Nero,pinot-nero,false,8703
+200,Refosco,refosco,false,2001
+201,Sauvignon Musque,sauvignon-musque,false,137
+202,Schioppettino,schioppettino,false,689
+203,Seyval Blanc,seyval-blanc,false,1204
+204,Souzao,souzao,false,1781
+205,Steuben,steuben,false,96
+206,Symphony,symphony,false,220
+208,Traminette,traminette,false,944
+209,Valdiguie,valdiguie,false,250
+210,Vidal,vidal,false,1397
+211,Vidal Blanc,vidal-blanc,false,1617
+212,Vignoles,vignoles,false,668
+213,Vincent,vincent,false,51
+215,Zibibbo,zibibbo,false,1045
+216,Agiorgitiko,agiorgitiko,false,1397
+218,Baco Noir,baco-noir,false,642
+219,Bianchetta Trevigiana,bianchetta-trevigiana,false,199
+221,Blaufrankisch,blaufrankisch,false,8206
+222,Charbono,charbono,false,472
+223,Chardonnay Musque,chardonnay-musque,false,323
+224,Chasselas,chasselas,false,5724
+225,Coda di Volpe Biancha,coda-di-volpe-biancha,false,399
+226,Corvinone,corvinone,false,2662
+227,Gamay Droit,gamay-droit,false,22
+228,Gamay Noir,gamay-noir,false,1787
+229,Gellewza,gellewza,false,56
+230,Girgentina,girgentina,false,69
+231,Greco,greco,false,1860
+232,Grenache Gris,grenache-gris,false,3328
+233,Grüner Veltliner,gruner-veltliner,false,17257
+235,Inzolia,inzolia,false,1792
+236,Kotsifali,kotsifali,false,277
+237,Liatiko,liatiko,false,87
+238,Lledoner Pelut,lledoner-pelut,false,85
+239,Malagouzia,malagouzia,false,706
+240,Moschofilero,moschofilero,false,451
+241,Müller Thurgau,muller-thurgau,false,8240
+242,Negoska,negoska,false,94
+243,Oseleta,oseleta,false,786
+244,Peloursin,peloursin,false,41
+245,Picpoul Blanc,picpoul-blanc,false,1455
+246,Piedirosso,piedirosso,false,749
+248,Rkatsiteli,rkatsiteli,false,2339
+249,Rubired,rubired,false,52
+250,Savatiano,savatiano,false,294
+251,Schiava,schiava,false,774
+252,Silvaner,silvaner,false,7024
+253,Soave,soave,false,481
+254,Tinta del Pais,tinta-del-pais,false,1179
+255,Xinomavro,xinomavro,false,1102
+256,Yellow Muscat,yellow-muscat,false,336
+257,Zweigelt,zweigelt,false,13834
+259,Assyrtiko,assyrtiko,false,1336
+260,Malvasia Nera,malvasia-nera,false,1643
+261,Malvasia Nera di Brindisi,malvasia-nera-di-brindisi,false,82
+262,Airen,airen,false,1919
+263,Ancellotta,ancellotta,false,881
+264,Bombino Bianco,bombino-bianco,false,432
+265,Canaiolo Blanco,canaiolo-blanco,false,690
+266,Cayuga White,cayaga-white,false,550
+267,Cesanese di Affile,cesanese-di-affile,false,124
+268,Ciliegiolo,ciliegiolo,false,1144
+270,Corvina Grossa,corvina-grossa,false,107
+271,Corvina Veronese,corvina-veronese,false,1913
+272,Couderc Noir,couderc-noir,false,12
+273,Donzelinho Branco,donzelinho-branco,false,155
+274,Foglia Tonda,foglia-tonda,false,87
+275,Groppello,groppello,false,631
+276,Horozkarasi,horozkarasi,false,10
+278,Marcelan,marcelan,false,507
+279,Marechal Foch,marechal-foch,false,870
+280,Moscato Giallo,moscato-giallo,false,1088
+281,Negrara Trentino,negrara-trentino,false,179
+282,Nerello Mascalese,nerello-mascalese,false,2236
+283,Nosiola,nosiola,false,335
+284,Petit Manseng,petit-manseng,false,2155
+285,Regent,regent,false,2395
+286,Sagrantino,sagrantino,false,1640
+287,Schiava Gentile,schiava-gentile,false,82
+288,Schiava Grigia,schiava-grigia,false,37
+289,Tintilia,tintilia,false,258
+290,Vilana,vilana,false,189
+291,Brachetto,brachetto,false,841
+292,Grignolino,grignolino,false,1248
+293,Roupeiro,roupeiro,false,2317
+294,Malvasia Fina,malvasia-fina,false,2679
+295,Melon,melon,false,1132
+296,Grauvernatsch,grauvernatsch,false,77
+297,St. Laurent,st-laurent,false,2877
+298,Scheurebe,scheurebe,false,3541
+299,Spätburgunder,spatburgunder,false,23945
+300,Sauvignon Gris,sauvignon-gris,false,2009
+301,Rossola,rossola,false,85
+302,Kerner,kerner,false,3670
+303,Tinta Madeira,tinta-madeira,false,237
+304,Pugnitello,pugnitello,false,127
+305,Geishenheim,geishenheim,false,48
+306,Albalonga,albalonga,false,86
+307,Albillo Mayor,albillo-mayor,false,279
+308,Bual,bual,false,200
+309,Carricante,carricante,false,622
+310,Drupeggio,drupeggio,false,95
+311,Durif,durif,false,1011
+312,Erbaluce,erbaluce,false,473
+313,Favorita,favorita,false,456
+314,Friulano,friulano,false,2324
+315,Gelber Muskateller,gelber-muskateller,false,2297
+316,Mauzac Blanc,mauzac,false,1008
+317,Pelaverga piccolo,pelaverga-piccolo,false,34
+318,Picolit,picolit,false,548
+319,Pinenc,pinenc,false,202
+320,Torbato,torbato,false,94
+321,Vernatsch,vernatsch,false,592
+322,Babeasa Neagra,babeasca-neagra,false,221
+323,Bovaleddu,bovaleddu,false,25
+324,Caladoc,caladoc,false,490
+325,Fernao Pires,fernao-pires,false,3174
+326,Feteasca Neagra,feteasca-neagra,false,2419
+327,Feteasca Regala,feteasca-regala,false,809
+328,Hárslevelű,harslevelu,false,2039
+329,Kékfrankos,kekfrankos,false,2643
+330,Lampia,lampia,false,89
+331,Manseng,manseng,false,504
+332,Michet,michet,false,81
+334,Moreto,moreto,false,519
+335,Moscatel de Setúbal,moscatel-de-setubal,false,960
+336,Moscatel Roxo,moscatel-roxo,false,513
+337,Nasco,nasco,false,98
+338,Neuburger,neuburger,false,918
+339,Nuragus,nuragus,false,142
+340,Olaszrizling,olaszrizling,false,1531
+341,Rabo de Ovelha,rabo-de-ovelha,false,551
+342,Rotgipfler,rotgipfler,false,411
+343,Sercial,sercial,false,496
+344,Szürkebarát,szrkebarat,false,416
+345,Turan,turan,false,95
+346,Zierfandler,zierfandler,false,302
+347,Fer Servadou,fer-servadou,false,222
+348,Moscatel Galego,moscatel-galego,false,961
+349,Pelaverga,pelaverga,false,106
+350,Petit Courbu,petit-courbu,false,381
+351,Raboso Piave,raboso-piave,false,958
+352,Rieslaner,rieslaner,false,543
+353,Rufete,rufete,false,716
+354,Tinta Francisca,tinta-francisca,false,552
+355,Weissburgunder,weissburgunder,false,14275
+356,Bacchus,bacchus,false,2146
+357,Siegerrebe,siegerrebe,false,358
+358,Rivaner,rivaner,false,2582
+359,Reichensteiner,reichensteiner,false,147
+360,Ortega,ortega,false,821
+361,Schönburger,schonburger,false,181
+362,Klevner,klevner,false,175
+363,Muscat of Alexandria,muscat-of-alexandria,false,1339
+364,Tazzelenghe,tazzelenghe,false,68
+365,Cesanese,cesanese,false,471
+366,Bical,bical,false,1478
+367,Encruzado,encruzado,false,2128
+368,Pederna,pederna,false,201
+369,Madeleine Angevine,madeleine-angevine,false,198
+370,Vespaiola,vespaiola,false,225
+371,Isabella,isabella,false,450
+372,Fragolino,fragolino,false,163
+373,Hanepoot,hanepoot,false,90
+374,Riesling Renano,riesling-renano,false,726
+375,Uva Rara,uva-rara,false,406
+376,Blauburger,blauburger,false,644
+377,Cococciola,cococciola,false,193
+378,Cornifesto,cornifesto,false,37
+379,Valdeorras,valdeorras,false,28
+380,Grao Negro,grao-negro,false,16
+381,Incrocio Manzoni,incrocio-manzoni,false,309
+382,Lacrima,lacrima,false,714
+383,Lambrusco,lambrusco,false,5696
+384,Marcobona,marcobona,false,11
+385,Mencia,mencia,false,4391
+386,Nerello Cappuccio,nerello-cappuccio,false,762
+387,Roscetto,roscetto,false,98
+388,Ruché,ruche,false,332
+389,Timorasso,timorasso,false,513
+390,Touriga Francesa,touriga-francesa,false,1642
+391,Verdiso,verdiso,false,239
+392,Verduzzo,verduzzo,false,992
+394,Furmint,furmint,false,5398
+404,Grolleau,grolleau,false,792
+414,Picapoll Blanco,picapoll-blanco,false,279
+424,Cabernet Dorio,cabernet-dorio,false,182
+434,Doña Blanca,dona-blanca,false,185
+444,Godello,godello,false,2634
+454,Pedro Ximenez,pedro-ximenez,false,2388
+464,Ortrugo,ortrugo,false,450
+474,Albanella,albanella,false,67
+484,Pulcinculo,pulcinculo,false,25
+494,Kadarka,kadarka,false,1101
+504,Antão Vaz,antao-vaz,false,4848
+514,Trincadeira,trincadeira,false,8969
+524,Cerceal Branco,cerceal-branco,false,1045
+534,Maria Gomes,maria-gomes,false,495
+545,Alva,alva,false,91
+546,Alvarinho,alvarinho,false,3854
+547,Assario Branco,assario-branco,false,44
+548,Azal,azal,false,462
+549,Bouvier,bouvier,false,156
+550,Bovale,bovale,false,275
+551,Braucol,braucol,false,418
+552,Bukettraube,bukettraube,false,91
+553,Camarate,camarate,false,341
+554,Chancellor,chancellor,false,215
+555,DeChaunac,dechaunac,false,155
+556,Duras,duras,false,391
+557,Folle Blanche,folle-blanche,false,371
+558,Kékoportó,kekoporto,false,112
+559,Len de l'El,len-de-lel,false,81
+560,Loin de l'Oeil,loin-de-loeil,false,227
+561,Manteudo,manteudo,false,88
+562,Marselan,marselan,false,1605
+563,Melnik,melnik,false,265
+564,Merseguera,merseguera,false,319
+565,Monica,monica,false,363
+566,Morenillo,morenillo,false,99
+567,Moristel,moristel,false,178
+568,Mourisco,mourisco,false,58
+569,Pagadebit,pagadebit,false,75
+570,Pamid,pamid,false,50
+571,Parraleta,parraleta,false,108
+572,Periquita,periquita,false,223
+573,Perrum,perrum,false,493
+574,Pontac,pontac,false,8
+575,Preto Martinho,preto-martinho,false,35
+576,Rebo,rebo,false,250
+577,Rossignola,rossignola,false,126
+578,Rougeon,rougeon,false,51
+579,Samsó,samso,false,1457
+580,Síria,siria,false,1129
+581,Tália,talia,false,21
+582,Tauberschwarz,tauberschwarz,false,55
+583,Tibouren,tibouren,false,411
+584,Tinta Caiada,tinta-caiada,false,285
+585,Ull de Llebre,ull-de-llebre,false,614
+586,Uva di Troia,uva-di-troia,false,238
+587,Vijiriega,vijiriega,false,152
+588,Welschriesling,welschriesling,false,3554
+589,Aidani,aidani,false,153
+590,Altesse,altesse,false,587
+591,André,andre,false,377
+592,Amigne,amigne,false,514
+593,Argaman,argaman,false,130
+594,Petite Arvine,petite-arvine,false,1927
+595,Athiri,athiri,false,283
+596,Aurelius,aurelius,false,245
+597,Cornalin,cornalin,false,1416
+598,Diolinoir,diolinoir,false,997
+599,Durella,durella,false,309
+600,Garanoir,garanoir,false,1338
+601,Hondarrabi Zuri,hondarrabi-zuri,false,534
+602,Humagne Rouge,humagne-rouge,false,998
+603,Irsai Oliver,irsai-oliver,false,755
+604,Jacquère,jacquere,false,660
+605,Korinthiaki,korinthiaki,false,8
+608,Malmsey,malmsey,false,181
+609,Mandilaria,mandilaria,false,376
+610,Mavrodafni,mavrodafni,false,213
+611,Mavrotragano,mavrotragano,false,97
+612,Melody,melody,false,41
+613,Modrý Portugal,modry-portugal,false,485
+614,Cinsaut,cinsaut,false,2478
+615,Palava,palava,false,1207
+616,Rhoditis,roditis,false,415
+617,Susumaniello,susumaniello,false,247
+618,Taminga,taminga,false,24
+619,Treixadura,treixadura,false,1314
+620,Vespolina,vespolina,false,501
+621,Villard blanc,villard-blanc,false,54
+622,Villard Noir,villard-noir,false,28
+623,Smederevka,smederevka,false,78
+624,Kratosija,kratosija,false,41
+625,Vranac,vranac,false,1172
+626,Stanusina,stanusina,false,22
+627,Teinturier,teinturier,false,30
+628,Callet,callet,false,667
+629,Prensal,prensal,false,342
+630,Prieto Picudo,prieto-picudo,false,653
+631,Leon Millot,leon-millot,false,395
+632,Plavac Mali,plavac-mali,false,1926
+633,Moscato Bianco,moscato-bianco,false,1269
+634,Gaglioppo,gaglioppo,false,622
+635,Magliocco Canino,magliocco-canino,false,241
+636,Roter Veltliner,roter-veltliner,false,543
+637,Seibel,seibel,false,123
+638,Rondo,rondo,false,699
+639,Fruhroter Veltliner,fruhroter-veltliner,false,232
+641,Humagne Blanche,humagne-blanche,false,401
+642,Auxerrois,auxerrois,false,2305
+643,Saperavi,saperavi,false,5946
+644,Cardinal,cardinal,false,89
+645,Gamaret,gamaret,false,2373
+646,Xynisteri,xynisteri,false,277
+647,Mavro,mavro,false,154
+648,Blauer Portugieser,blauer-portugieser,false,2316
+649,Munson,munson,false,17
+652,Maroo,maroo,false,8
+653,Manto Negro,manto-negro,false,803
+655,Sugar,sugar,false,32
+656,Maratheftiko,maratheftiko,false,223
+657,Orion,orion,false,81
+658,Solaris,solaris,false,1027
+659,Madeline Sylvaner,madeline-sylvaner,false,29
+661,Prié,Prie,false,162
+662,Fumin,fumin,false,347
+663,Nielluccio,nielluccio,false,1289
+664,Azal Branco,azal-branco,false,61
+665,Chatus,chatus,false,66
+666,Zalema,zalema,false,143
+667,Edelweiss,edelweiss,false,133
+668,St. Pepin,st-pepin,false,51
+669,Boal Branco,boal-branco,false,239
+670,Scuppernong,scuppernong,false,63
+671,Albarossa,albarossa,false,240
+672,Huxelrebe,huxelrebe,false,872
+673,Caiño tinto,caino-tinto,false,253
+674,Vinhão,vinhao,false,444
+675,Blauburgunder,blauburgunder,false,2883
+676,Cserszegi Füszeres,cserszegi-fuszeres,false,283
+677,Vaccareze,vaccareze,false,174
+678,Muscardin,muscardin,false,193
+679,Orangetraube,orangetraube,false,16
+680,Abrusco,abrusco,false,347
+681,Abrostine,abrostine,false,210
+682,Abouriou,abouriou,false,302
+683,Abbuoto,abbuoto,false,320
+684,Acitana,acitana,false,272
+685,Adakarasi,adakarasi,false,366
+686,Adalmina,adalmina,false,562
+687,Addoraca,addoraca,false,313
+688,Affenthaler,affenthaler,false,265
+689,AG Malayi,ag-malayi,false,164
+690,Agiomavritiko,agiomavritiko,false,98
+691,Agni,agni,false,47
+692,Agronómica,agronomica,false,51
+693,Água santa,agua-santa,false,39
+694,Ahumat,ahumat,false,36
+695,Akhtanak,akhtanak,false,57
+696,Aladasturi,aladasturi,false,58
+697,Alarije,alarije,false,56
+698,Albarin Blanco,arbarin-blanco,false,261
+699,Albaranzeuli Bianco,albaranzeuli-blanco,false,28
+700,Albaranzeuli Nero,albaranzeuli-nero,false,30
+701,Albillo de Albacete,albillo-de-albacete,false,53
+702,Albillo Real,albillo-real,false,418
+703,Alcanón,alcanon,false,46
+704,Aleksandrouli,aleksandrouli,false,240
+705,Alexander,alexander,false,53
+706,Alionza,alionza,false,28
+707,Allegro,allegro,false,73
+708,Amaral,amaral,false,64
+709,Antey Magarachsky,antey-magarachsky,false,22
+710,Araklinos,araklinos,false,23
+711,Aramon,aramon,false,106
+712,Aranel,aranel,false,21
+713,Arany Sárfehér,arany-sarfeher,false,22
+714,Arbane,arbane,false,68
+715,Areni,areni,false,420
+716,Areti,areti,false,43
+717,Arilla,arilla,false,18
+718,Arna-Grna,arna-grna,false,16
+720,Arnsburger,arnsburger,false,33
+721,Arriloba,arriloba,false,31
+722,Arrouya,arrouya,false,29
+723,Arrufiac,arrufiac,false,169
+724,Arvesiniadu,arvesiniadu,false,14
+725,Arvine,arvine,false,193
+726,Ashughaji,ashughaji,false,9
+727,Asuretuli Shavi,sauretuli-shavi,false,18
+728,Aurore,aurore,false,51
+729,Avanà,avana,false,35
+730,Avarengi,avarengi,false,15
+731,Avasirkhva,avasirkhva,false,11
+732,Avesso,avesso,false,289
+733,Avgoustiatis,avgoustiatis,false,77
+734,Babic,babic,false,136
+735,Babica,babica,false,23
+736,Bachet Noir,bachet-noir,false,18
+737,Baco Blanc,baco-blanc,false,57
+738,Bagrina,bagrina,false,13
+739,Balzac Blanc,balzac-blanc,false,21
+740,Baratuciat,baratuciat,false,27
+741,Barbarossa,barbarossa,false,148
+742,Barbaroux,barbaroux,false,45
+743,Barbera Bianca,barbera-bianca,false,40
+744,Barbera del sannio,barbera-del-sannio,false,36
+745,Barbera Sarda,barbera-sarda,false,31
+746,Barcelo,barcelo,false,38
+747,Bariadorgia,bariadorgia,false,11
+748,Baroque,barouqe,false,69
+749,Barsaglina,barsaglina,false,31
+750,Bastardo Magarachsky,bastardo-magarachsky,false,761
+751,Batiki,batiki,false,13
+752,Batoca,batoca,false,16
+753,Bayanshira,bayanshira,false,32
+754,Beaunoir,beaunoir,false,34
+755,Beba,beba,false,26
+756,Béclan,beclan,false,9
+757,Beichun,beichun,false,8
+758,Bekari,bekari,false,28
+759,Belat,belat,false,11
+760,Bellone,bellone,false,212
+761,Bena,bena,false,17
+762,Bíborkadarka,biborkadarka,false,17
+763,Bigolona,bigolona,false,11
+764,Nirstaler Muskat,birstaler-muskat,false,7
+765,Black Queen,black-queen,false,131
+766,Blanc Dame,blanc-dame,false,66
+767,Blanc du Bois,blanc-du-bois,false,211
+768,Blanqueiro,blanqueiro,false,17
+769,Blatina,blatina,false,152
+771,Blauer Urban,blauer-urban,false,35
+772,Blauer Wildbacher,blauer-wildbacher,false,143
+773,Bogazkere,bogazkere,false,437
+774,Bogdanusa,bogdanusa,false,43
+775,Bonamico,Italy,false,11
+776,Bonda,bonda,false,7
+777,Bondola,bondola,false,55
+778,Bondoletta,bondoletta,false,13
+779,Bordô,bordo,false,724
+780,Bosco,bosco,false,214
+781,Bouchalès,bouchales,false,35
+782,Bourrisquou,bourrisquou,false,10
+783,Bouteillan Noir,bouteillan-noir,false,24
+784,Bracciola Nera,bracciola-nera,false,8
+785,Braquet,braquet,false,54
+786,Bratkovina Bijela,bratkovina-bijela,false,4
+787,Brauner Veltliner,brauner-veltliner,false,8
+788,Breidecker,breidecker,false,10
+789,Breslava,breslava,false,27
+790,Brianna,brianna,false,53
+791,Bronner,bronner,false,74
+792,Brugnola,brugnola,false,16
+793,Brun Argenté,brun-argente,false,24
+794,Brun Fourca,brun-fourca,false,14
+795,Brustiano,brustiano,false,11
+796,Bubbierasco,bubbierasco,false,4
+797,Budai Zöld,budai-zold,false,35
+798,Budeshuri Tsiteli,budeshuri-tsiteli,false,15
+799,Buket,buket,false,15
+800,Bussanello,bussanello,false,13
+801,Busuioaca de Bohotin,busuioaca-debohotin,false,108
+802,Caberinta,caberinta,false,47
+803,Cabernet Blanc,cabernet-blanc,false,1211
+804,Cabernet Carbon,cabernet-carbon,false,139
+805,Cabernet Carol,cabernet-carol,false,78
+806,Cabernet Colonjes,cabernet-colonjes,false,40
+807,Cabernet Cortis,cabernet-cortis,false,347
+808,Cabernet Cubin,cabernet-cubin,false,260
+809,Cabernet Jura,cabernet-jura,false,255
+810,Cabernet Moravia,cabernet-moravia,false,521
+811,Cabernet Pfeffer,cabernet-pfeffer,false,112
+812,Cabernet Severny,cabernet-severny,false,148
+813,Cabertin,cabertin,false,70
+814,Cacaboué,cacaboué,false,20
+815,Cacamosca,cacamosca,false,15
+816,Caddiu,caddiu,false,12
+817,Calabrese di Montenuovo,calabrese-di-montenuovo,false,27
+818,Calagrano,calagrano,false,15
+819,Calandro,calandro,false,13
+820,Calitor Noir,calitor-noir,false,13
+821,Calkarasi,calkarasi,false,61
+822,Caloria,caloria,false,10
+823,Camaralet de Lasseube,camaralet-de-lasseube,false,29
+824,Camaraou Noir,camaraou-noir,false,6
+825,Campbell Early,campbell-early,false,80
+826,Canada Muscat,canada-muscat,false,14
+827,Canari Noir,canari-noir,false,31
+828,Canocazo,canocazo,false,11
+829,Caprettone,caprettone,false,40
+830,Caracol,caracol,false,16
+831,Cargarello,cargarello,false,12
+832,Carica L'Asino,carica-lasino,false,19
+833,Carlos,carlos,false,48
+834,Carmine,carmine,false,61
+835,Carminoir,carminoir,false,181
+836,Carnelian,carnelian,false,40
+837,Carrasquin,carrasquin,false,79
+838,Carrega Branco,carrega-branco,false,8
+839,Casavecchia,casavecchia,false,105
+840,Cascade,cascade,false,12
+841,Cascarolo Bianco,cascarola-bianco,false,5
+842,Casculho,casculho,false,17
+843,Casetta,casetta,false,12
+844,Castagnara,castagnara,false,7
+845,Castets,castets,false,21
+846,Castiglione,castiglione,false,25
+847,Catalanesca,catalanesca,false,44
+848,Catanese Nero,catanese-nero,false,8
+849,Cavrara,cavara,false,15
+850,Cavus,cavus,false,61
+851,Cayetana Blanca,cayetana-blanca,false,46
+852,Centesiminio,centecimino,false,45
+853,Centurian,centurian,false,17
+854,Cereza,cereza,false,22
+855,Cerreto,cerreto,false,40
+856,César,cesar,false,60
+857,Cetinka,cetinka,false,19
+858,Cevat Kara,cevat-kara,false,18
+859,Douce Noire,douce-noire,false,29
+860,Charentsi,charentsi,false,25
+861,Charmont,charmont,false,83
+862,Chasan,chasan,false,175
+863,Chelois,chelois,false,26
+864,Chelva,chelva,false,27
+865,Chenanson,chenanson,false,56
+866,Chenel,chenel,false,20
+867,Chichaud,chichaud,false,10
+868,Chidiriotiko,chidiriotiko,false,13
+869,Chinuri,chinuri,false,67
+870,Chisago,chisago,false,11
+871,Chkhaveri,chkhaveri,false,54
+872,Chondromavro,chondromavro,false,9
+873,Chouchillon,chouchillon,false,7
+874,Cianorie,cianorie,false,13
+875,Cienna,cienna,false,22
+876,Citronny Magaracha,citronny-magaracha,false,28
+877,Ciurlese,ciurlese,false,11
+878,Cividin,cividin,false,8
+879,Claverie,claverie,false,18
+880,Clinton,clinton,false,24
+881,Coda di Cavallo Bianca,coda-di-cavallo-biancha,false,9
+882,Coda di Pecora,coda-di-pecora,false,10
+883,Codega de Larinho,codega-di-larinho,false,1724
+884,Codivarta,codivarta,false,9
+885,Colombana Nera,columbana-nera,false,32
+886,Colombaud,colombaud,false,35
+887,Coloraillo,coloraillo,false,29
+888,Completter,completter,false,92
+889,Complexa,complexa,false,11
+890,Cordenossa,cordenossa,false,9
+891,Cornarea,cornarea,false,8
+892,Corot Noir,corot-noir,false,73
+893,Corredera,corredera,false,7
+894,Corva,corva,false,18
+895,Cot,cot,false,590
+896,Courbu Blanc,courbu-blanc,false,48
+897,Courbu Noir,courbu-noir,false,10
+898,Cramposie Selectionata,cramposie-selectionata,false,85
+899,Criolla Grande,criolla-grande,false,78
+900,Crouchen,crouchen,false,60
+901,Crovassa,crovassa,false,8
+902,Crystal,crystal,false,26
+903,Csaba Gyongye,csaba--gyongye,false,12
+904,Csokaszolo,csokaszolo,false,22
+905,Cygne Blanc,cygne-blanc,false,11
+906,Dafni,dafni,false,48
+907,Dakapo,dakapo,false,51
+908,Dalkauer,dalkauer,false,27
+909,Damaschino,damaschino,false,22
+910,Debina,debina,false,44
+911,Debine e Bardhe,debine-e-Bardhe,false,10
+912,Debine e Zeze,debine-e-zeze,false,9
+913,Debit,debit,false,80
+914,Deckrot,deckrot,false,9
+915,Delaware,delaware,false,462
+916,Delisle,delisle,false,5
+917,Devin,devin,false,431
+918,Diagalves,diagalves,false,55
+919,Dimrit,dimrit,false,8
+920,Dimyat,dimyat,false,71
+921,Diseca Ranina,diseca-ranina,false,6
+922,Dnestrovsky Rozovy,dnestrovsky-rozovy,false,4
+923,Dobricic,dobricic,false,22
+924,Doina,doina,false,6
+925,Dolciame,dolciame,false,6
+926,Domina,domina,false,438
+927,Donzelinho Tinto,donzelinho-tinto,false,50
+928,Doradilla,doradilla,false,15
+929,Dorona di Venezia,dorona-di-venezia,false,28
+930,Doux D'Henry,doux-d-henry,false,7
+931,Dragon Blue,dragon-blue,false,9
+932,Dunaj,dunaj,false,324
+933,Dunkelfelder,dunkelfelder,false,266
+934,Duranija,duranija-,false,7
+935,Dureza,dureza,false,13
+936,Dutchess,dutchess,false,7
+937,Dzvelshavi Obchuri,dzvelshavi-obchuri,false,15
+938,Dona Branca,dona-branca,false,78
+939,Doral,doral,false,95
+940,Dorinto,dorinto,false,3
+941,Early Muscat,early-muscat,false,21
+942,Ederena,ederena,false,15
+943,Egiodola,egiodola,false,116
+944,Ehrenfelser,ehrenfelser,false,194
+945,Ekigaina,ekigaina,false,18
+946,Ekim Kara,ekim-kara,false,65
+947,Elbling,elbling,false,391
+948,Elvira,elvira,false,18
+949,Emerald Riesling,emerald-riesling,false,91
+950,Emir,emir,false,92
+951,Enantio,enantio,false,64
+952,Enfariné Noir,enfarine-noir,false,18
+953,Eona,eona,false,6
+954,Erbamat,erbamat,false,10
+955,Ervi,ervi,false,5
+956,Escursac,escursac,false,11
+957,Espadeiro,espadeiro,false,213
+958,Espirit,espirit,false,13
+959,Etraire de L'Adui,etraire-de-ladui,false,9
+960,Evmolpia,evmolpia,false,12
+961,Eyholzer Rote,eyholzer-rote,false,4
+962,Ezerfürtü,ezerfurtu,false,6
+963,Ezerjó,ezerjo,false,115
+964,Faberrebe,faberrebe,false,96
+965,Falanghina Beneventana,falanghina-beneventana,false,386
+966,Fenile,fenile,false,14
+967,Fioletovy Ranny,fioletovy-ranny,false,11
+968,Flavis,flavis,false,8
+969,Florental,florental,false,6
+970,Foca Karasi,foca-karasi,false,12
+971,Fogarina,fogarina,false,4
+973,Fogoney,fogoney,false,102
+974,Fokiano,fokiano,false,35
+975,Folgasao,folgasao,false,70
+976,Folignan,folignan,false,3
+977,Fonte Cal,fonte-cal,false,91
+978,Forastera,forastera,false,54
+979,Forcallat Tinta,forcallat-tinta,false,22
+980,Forgiarin,forgiarin,false,7
+981,Forsellina,forsellina,false,14
+982,Fortana,fortana,false,69
+983,Francavidda,francavidda,false,20
+984,Francusa,francusa,false,56
+985,Frauller,frauller,false,5
+986,Fredonia,fredonia,false,40
+987,Sauvignonasse,sauvignonasse,false,475
+988,Freisamer,freisamer,false,63
+989,Fubiano,fubiano,false,4
+990,Fuelle Nera,fuelle-nera,false,15
+991,Gaidouria,gaidouria,false,7
+992,Galatena,galatena,false,18
+993,Galbena de Odobesti,galbena-de-odobesti,false,9
+994,Galego Dourado,galego-dourado,false,44
+995,Gallioppo delle Marche,gallioppo-delle-marche,false,29
+996,Gallizzone,gallizzone,false,7
+997,Galotta,galotta,false,148
+998,Gamba di Pernice,gamba-di-pernice,false,31
+999,Gänsfüsser,gansfusser,false,9
+1000,Ganson,ganson,false,6
+1001,Gamay Teinturier de Bouze,gamay-teinturier-de-bouze,false,23
+1002,Gara Ikeni,gara-ikeni,false,8
+1003,Garandmak,garandmak,false,18
+1004,Garnacha Roja (Gris),garnacha-roja-gris,false,385
+1005,Garnacha Peluda,garnacha-peluda,false,195
+1006,Garrido Fino,garrido-fino,false,23
+1007,Gascon,gascon,false,33
+1008,Gegic,gegic,false,31
+1009,Generosa,generosa,false,22
+1010,Genouillet,genouillet,false,6
+1011,Savagnin,savagnin-blanc,false,7284
+1012,Savagnin Rosé,savagnin-rose,false,139
+1013,Gibi,gibi,false,10
+1014,Ginestra,ginestra,false,24
+1015,Girò,giro,false,65
+1016,Girò Blanc,giro-blanc,false,41
+1017,Glavinusa,glavinusa,false,8
+1018,Goldburger,goldburger,false,29
+1019,Golden Muscat,golden-muscat,false,158
+1020,Goldriesling,goldriesling,false,37
+1021,Golubok,golubok,false,185
+1022,Gorgollasa,gorgollasa,false,30
+1023,Goruli Mtsvane,goruli-mtsvane,false,55
+1024,Gouais Blanc,gouais-blanc,false,32
+1025,Gouget Noir,gouget-noir,false,3
+1026,Goustolidi,goustolidi,false,27
+1027,Gouveio Real,gouveio-real,false,62
+1028,Graisse,graisse,false,16
+1029,Gramon,gramon,false,7
+1030,Grand Noir,grand-noir,false,161
+1031,Grasevina,grasevina,false,630
+1032,Greco Bianco,greco-bianco,false,506
+1033,Malvasia di Lipari,malvasia-di-lipari,false,63
+1034,Greco Nero,greco-nero,false,128
+1035,Greco Nero di Sibari,greco-nero-di-sibari,false,13
+1036,Greco Nero di Verbicaro,greco-nero-di-verbicaro,false,12
+1037,Gringet,gringet,false,94
+1038,Grisa Nera,grisa-nera,false,20
+1039,Grk,grk,false,54
+1040,Groppello di Revo,groppello-di-revo,false,10
+1041,Groppello Gentile,groppello-gentile,false,47
+1042,Gros Manseng,gros-manseng,false,1576
+1043,Gros Verdot,gros-verdot,false,14
+1044,Grossa,grossa,false,44
+1045,Gruaja,gruaja,false,13
+1046,Guardavalle,guardavalle,false,23
+1047,Gueche Noir,gueuche-noir,false,27
+1048,Gutenborner,gutenborner,false,17
+1049,Hamashara,hamashara,false,8
+1050,Hasandede,hasandede,false,18
+1051,Helfensteiner,helfensteiner,false,5
+1052,Helios,helrios,false,36
+1053,Herbemont,herbemont,false,14
+1054,Heroldrebe,heroldrebe,false,73
+1055,Hetera,hetera,false,8
+1056,Hibernal,hibernal,false,517
+1057,Himbertscha,himbertscha,false,5
+1058,Hitzkircher,hitzkircher,false,7
+1059,Hölder,holder,false,13
+1060,Hron,hron,false,46
+1061,Hrvatica,hvratica,false,17
+1062,Impigno,impigno,false,3
+1063,Incrocio Bianco Fedit,incrocio-bianco-fedit,false,6
+1064,Incrocio Bruni,incrocio-bruni,false,36
+1065,Incrocio Terzi,incrocio-terzi,false,11
+1066,Invernenga,invernenga,false,12
+1067,Iri Kara,iri-kara,false,6
+1068,Italia,italia,false,197
+1069,Italica,italica,false,23
+1070,Ives,ives,false,21
+1071,Jaquez,jaquez,false,30
+1072,Jampal,jampal,false,28
+1073,Johanniter,johanniter,false,724
+1074,Juan Garcia,juan-garcia,false,113
+1075,Jubilaumsrebe,jubilaumsrebe,false,8
+1076,Juhfark,juhfark,false,275
+1077,Jurancon Blanc,jurancon-blanc,false,77
+1078,Jurancon Noir,jurancon-noir,false,34
+1079,Juwel,juwel,false,12
+1080,Kabar,kabar,false,47
+1081,Kachichi,kachichi,false,8
+1082,Kakhet,kakhet,false,124
+1083,Kakotrygis,kakotrygis,false,20
+1084,Kalecik Karasi,kalecik-karasi,false,416
+1085,Kalina,kalina,false,9
+1086,Kangun,kangun,false,85
+1087,Kanzler,kanzler,false,30
+1088,Kapistoni Tetri,kapistoni-tetri,false,5
+1089,Kapitan Jani Kara,kapitan-jani-kara,false,6
+1090,Kapselsky,kapselsky,false,3
+1091,Kara Izyum Ashkhabadsky,kara-izyum-ashkhabadsky,false,7
+1092,Karalahna,karalahna,false,39
+1093,Karasakiz,karasakiz,false,144
+1094,Karat,karat,false,6
+1095,Karmahyut,karmahyut,false,52
+1096,Karnachalades,karnachalades,false,7
+1097,Katsakoulias,katsakoulias,false,6
+1098,Katsano,katsano,false,4
+1099,Kay Gray,kay-gray,false,6
+1100,Kefessiya,kefessiya,false,148
+1101,Kéknyelu,kekneyelu,false,153
+1102,Keratsuda,keratsuda,false,14
+1103,Khikhvi,khikhvi,false,83
+1104,Khindogni,khindogni,false,46
+1105,Kiralyleanyka,kiralyleanyka,false,236
+1106,Kisi,kisi,false,263
+1107,Klarnica,klarnica,false,24
+1108,Knipperle,knipperle,false,2
+1109,Köhnü,kohnu,false,11
+1110,Kok Pandas,kok-pandas,false,12
+1111,Kokur Bely,kokur-bely,false,301
+1112,Kolindrino,kolindrino,false,9
+1113,Kolorko,kolorko,false,9
+1114,Koriostafylo,koriostafylo,false,4
+1115,Kösetevek,kosetevek,false,5
+1116,Koshu,koshu,false,1747
+1117,Koutsoumpeli,koutsoumpeli,false,3
+1118,Kövidinka,kovindinka,false,22
+1119,Krakhuna,krakhuna,false,51
+1120,Kraljevina,kraljevina,false,24
+1121,Krasnostop Zolotovsky,krasnostop-zolotovsky,false,657
+1122,Tribidrag,tribidrag,false,10
+1123,Krassato,krassato,false,61
+1124,Kreaca,kreaca,false,3
+1125,Krkosija,krkosija,false,7
+1126,Krona,krona,false,7
+1127,Krstac,krstac,false,32
+1128,Kujundzusa,kujundzusa,false,22
+1129,Kumshatsky Cherny,kumsharsky-cherny,false,7
+1130,Kuleany,kuleany,false,7
+1131,Kupusar,kupusar,false,5
+1132,Kydonitsa,kydonitsa,false,34
+1133,L'Acadie Blanc,lacadie-blanc,false,91
+1134,La Crescent,la-cresent,false,128
+1135,La Crosse,la-crosse,false,38
+1136,Lado,lado,false,90
+1137,Lafnetscha,lafnetscha,false,32
+1138,Lagarino Bianco,lagarino-bianco,false,19
+1139,Lairén,lairen,false,12
+1140,Lalvari,lalvari,false,10
+1141,Lambrusca Di Alessandria,lambrusca-di-alessandria,false,8
+1142,Lambrusca Vittona,lambrusca-vittona,false,9
+1143,Lambruschetto,lambruschetto,false,5
+1144,Landal,landal,false,18
+1145,Landot Noir,landot-noir,false,38
+1146,Lanzesa,lanzesa,false,5
+1147,Lapa Kara,lapa-kara,false,3
+1148,Lasina,lasina,false,23
+1149,Laurot,laurot,false,28
+1150,Lauzet,lauzet,false,11
+1151,Leanyka,leanyka,false,132
+1152,Liliorila,liliorila,false,6
+1153,Limnio,limniko,false,131
+1154,Limniona,limniona,false,51
+1155,Listan de Huelva,listan-de-huelva,false,68
+1156,Listan Negro,listan-negro,false,618
+1157,Listan Prieto,listan-prieto,false,101
+1158,Ljutun,ljutun,false,7
+1159,Longyan,longyan,false,12
+1160,Louise Swenson,louise-swenson,false,20
+1161,Lucie Kuhlmann,lucie-kuhlmann,false,62
+1162,Luglienga,luglienga,false,10
+1163,Lumassina,lumassina,false,50
+1164,Lydia,lydia,false,10
+1165,Macertino,macertino,false,43
+1166,Madrasa,madrasa,false,92
+1167,Magliocco Dolce,magliococco-dolce,false,117
+1168,Magnolia,magnolia,false,26
+1169,Magyarfrankos,magyarfrankos,false,16
+1170,Maiolica,maiolica,false,13
+1171,Maiolina,maiolina,false,20
+1172,Malaga Blanc,malaga-blanc,false,53
+1173,Malbo Gentile,malbo-gentile,false,101
+1174,Maligia,maligia,false,9
+1175,Malvasia di Candia Aromatica,malvasia-di-candia-aromatica,false,366
+1176,Malvasia de Colares,malvasia-de-colares,false,46
+1177,Malvasia Bianca Lunga,malvasia-bianca-lunga,false,512
+1178,Malvasia del Lazio,malvasia-del-lazio,false,223
+1179,Malvasia Preta,malvasia-preta,false,24
+1180,Malvazija Istarska,malvazija-istarska,false,809
+1181,Malverina,malverina,false,46
+1182,Mandón,mandon,false,100
+1183,Mandregue,mandregue,false,3
+1184,Mantonico Bianco,mantonico-bianco,false,60
+1185,Manzoni Bianco,manzoni-bianco,false,402
+1186,Manzoni Moscato,manzoni-moscato,false,23
+1187,Manzoni Rosa,manzoni-rosa,false,22
+1188,Mara,mara,false,53
+1189,Marchione,marchione,false,19
+1190,Marmajuelo,marmajuelo,false,83
+1191,Marquette,marquette,false,341
+1192,Marufo,marufo,false,37
+1193,Maruggio,maruggio,false,19
+1194,Marzemina Bianca,marzemina-bianca,false,23
+1195,Matrai Muskotaly,martrai-muskotaly,false,14
+1196,Maturana Blanca,maturana-blanca,false,63
+1197,Mauzac Noir,mauzac-noir,false,50
+1198,Mavro Kalavritino,mavro-kalavritino,false,28
+1199,Mavro Messenikola,mavro-messenikola,false,13
+1200,Mavroudi Arachovis,mavroudi-arachovis,false,79
+1201,Mavrud,mavrud,false,939
+1202,Mayolet,mayolet,false,39
+1203,Mazzese,mazzese,false,14
+1204,Mècle de Bourgoin,mecle-de-bourgoin,false,8
+1205,Medna,medna,false,10
+1206,Megrabuir,megrabuir,false,12
+1207,Melara,melara,false,15
+1208,Shiroka Melnishka,shiroka-melnishka,false,57
+1209,Mennas,mennas,false,24
+1210,Menoir,menoir,false,119
+1211,Menu Pineau,menu-pineau,false,107
+1212,Mérille,merille,false,43
+1213,Merzifon Karasi,merzifon-karasi,false,10
+1214,Merzling,merzling,false,43
+1215,Meslier Saint-Francois,meslier-saint-francois,false,14
+1216,Mézes Fehér,mezet-feher,false,7
+1217,Mézy,mezy,false,12
+1218,Milgranet,milgranet,false,3
+1219,Milia,milia,false,26
+1220,Millot-Foch,millot-foch,false,30
+1221,Minella Bianca,minella-bianca,false,89
+1222,Minutolo,minutolo,false,90
+1223,Misket Cherven,misket-cherven,false,47
+1224,Misket Varnenski,misket-varnenski,false,35
+1225,Misket Vrachanski,misket-vrachanski,false,36
+1226,Mladinka,mladinka,false,4
+1227,Molette,molette,false,35
+1228,Mollard,mollard,false,23
+1229,Monarch,monarch,false,51
+1230,Monbadon,monbadon,false,13
+1231,Mondeuse Blanche,mondeuse-blanche,false,105
+1232,Mondeuse Noire,mondeuse-noire,false,714
+1233,Monemvassia,monemvassia,false,54
+1234,Monerac,monerac,false,9
+1235,Monstruosa,monstruosa,false,20
+1236,Montils,montils,false,16
+1237,Montonico Bianco,montonico-bianco,false,64
+1238,Montù,montu,false,19
+1239,Monvedro,monvedro,false,68
+1240,Moore's Diamond,moores-diamond,false,17
+1241,Moradella,moradella,false,27
+1242,Morava,morava,false,129
+1243,Moravia Agria,moravia-agria,false,54
+1244,Morio-Muskat,morio-muskat,false,292
+1246,Mornen Noir,mornen-noir,false,7
+1247,Morone,morone,false,7
+1248,Morrastel Bouschet,morrastel-bouschet,false,67
+1249,Moscatello Selvatico,moscatello-selvatico,false,91
+1250,Moscato Rosa del Trentino,moscato-rosa-del-trentino,false,179
+1251,Moschomavro,moschomavro,false,35
+1252,Mostosa,mostosa,false,37
+1253,Mouyssagues,mouyssagues,false,14
+1254,Mskhali,mskhali,false,17
+1255,Mtsvane Kakhuri,mtsvane-kakhuri,false,791
+1256,Mujuretuli,mujuretuli,false,167
+1257,Muscat Bailey A,muscat-bailey-a,false,982
+1258,Muscat of Hamburg,muscat-of-hamburg,false,207
+1259,Muskat Moravsky,muskat-moravsky,false,794
+1260,Mustoasa de Maderat,mustoasa-de-maderat,false,50
+1261,Narince,narince,false,241
+1262,Nascetta,nascetta,false,161
+1263,Nebbiera,nebbiara,false,9
+1264,Nebbiolo Rosé,nebbiolo-rose,false,141
+1265,Negramoll,negramoll,false,212
+1266,Negrara Veronese,negrara-veronese,false,134
+1267,Negret de Banhars,negret-de-banhars,false,9
+1268,Negretto,negretto,false,26
+1269,Negru de Dragasani,negru-de-dragasani,false,115
+1270,Neheleschol,neheleschol,false,6
+1271,Neoplanta,neoplanta,false,10
+1272,Ner D'Ala,ner-d-ala,false,25
+1273,Neret di Saint-Vincent,neret-di-saint-vincent,false,8
+1274,Neretta Cuneese,neretta-cuneese,false,13
+1275,Neretto di Bairo,neretto-di-bairo,false,15
+1276,Neretto Duro,neretto-duro,false,9
+1277,Neretto Gentile,neretto-gentile,false,5
+1278,Neretto Nostrano,neretto-nostrano,false,8
+1279,Nerkarat,nerkarat,false,2
+1280,Nerkeni,nerkeni,false,12
+1281,Nero Buono di Cori,nero-buono-di-cori,false,60
+1282,Nero di Troia,nero-di-troia,false,1038
+1283,Neronet,neronet,false,212
+1284,New York Muscat,new-york-muscat,false,21
+1285,Nieddera,nieddara,false,54
+1287,Nigrikiotiko,nigrikiotiko,false,5
+1288,Nincusa,nincusa,false,6
+1289,Nitranka,nitranka,false,28
+1290,Noah,noah,false,17
+1291,Noble,noble,false,107
+1292,Nobling,nobling,false,36
+1293,Nocera,nocera,false,93
+1294,Noir Flerurien,noir-fleurien,false,13
+1295,Noiret,noiret,false,187
+1296,Notardomenico,notardomenico,false,4
+1297,Nouvelle,nouvelle,false,88
+1298,Novac,novac,false,45
+1300,Nigra,nigra,false,11
+1301,Noria,noria,false,37
+1302,Odessky Cherny,odessky-cherny,false,105
+1303,OIeillade Noire,oleillade-noire,false,34
+1304,Ofthalmo,ofthalmo,false,22
+1305,Ohridsko Crno,ohridsko-crno,false,8
+1306,Ojaleshi,ojaleshi,false,103
+1307,Öküzgözü,okuzgozu,false,548
+1308,Onchette,onchette,false,5
+1309,Ondenc,ondenc,false,68
+1310,OpsimoEdessis,opsimo-edessis,false,2
+1311,Optima,optima,false,77
+1312,Orleans Gelb,orleans-gelb,false,17
+1313,Osteiner,osteiner,false,7
+1314,Österreichisch Weiss,osterrechisch-weiss,false,68
+1315,Otskhanuri Sapere,otskhanuri-sapere,false,46
+1316,Ovidiopolsky,ovidiopolsky,false,4
+1317,Oraniensteiner,oraniensteiner,false,15
+1318,Muscat Fleur D'Oranger,muscat-fleur-d-oranger,false,49
+1319,Padeiro,padeiro,false,44
+1320,Pallagrello Bianco,pallagrello-bianco,false,101
+1321,Pallagrello Nero,pallagrello-nero,false,116
+1322,Pampanuto,pampanuto,false,42
+1323,Panonia,panonia,false,11
+1324,Paolina,paolina,false,8
+1325,Parkent,parkent,false,9
+1326,Pascal Blanc,pascal-blanc,false,17
+1327,Pascale,pascale,false,44
+1328,Passau,passau,false,12
+1329,Pavana,pavana,false,8
+1330,Pedral,pedral,false,60
+1331,Pardillo,pardillo,false,24
+1332,Pedro Giménez,pedro-gimenez,false,89
+1333,Pepella,pepella,false,23
+1334,Perera,perera,false,65
+1335,Perle,perle,false,71
+1336,Perricone,perricone,false,267
+1337,Perruno,perruno,false,8
+1338,Persan,persan,false,80
+1339,Pervenets Magaracha,pervenets-magaracha,false,11
+1340,Pervomaisky,pervomaisky,false,8
+1341,Petite Amie,petite-amie,false,19
+1342,Petite Pearl,petite-pearl,false,42
+1343,Petra,petra,false,15
+1344,Petrokoritho,petrokoritho,false,9
+1345,Petrouloanos,petrouloanos,false,5
+1346,Phoenix,phoenix,false,73
+1347,Piccola Nera,piccola-nera,false,28
+1348,Piculit Neri,piculit-neri,false,23
+1349,Pineau D'Aunis,pineau-d-aunis,false,420
+1350,Pinella,pinella,false,130
+1351,Pinotin,pinotin,false,105
+1352,Pionnier,pionnier,false,23
+1353,Piquepoul Blanc,piquepoul-blanc,false,206
+1354,Plant Droit,plant-droit,false,6
+1355,Planta Nova,planta-nova,false,18
+1356,Plantet,plantet,false,14
+1357,Platscher,platscher,false,3
+1358,Plassa,plassa,false,4
+1359,Platani,platani,false,5
+1360,Plavac Zuti,plavac-zuti,false,15
+1361,Pignola Valtellinese,pignola-valtellinese,false,35
+1362,Pinot Teinturier,pinot-teinturier,false,12
+1363,Pinot Noir Précoce,pinot-noir-precoce,false,496
+1364,Piquepoul Noir,piquepoul-noir,false,63
+1365,Plavina,plavina,false,47
+1366,Plechistik,plechistik,false,19
+1367,Plyto,plyto,false,42
+1368,Temjanika,temjanika,false,228
+1369,Podarok Magaracha,podarok-magaracha,false,8
+1370,Pollera Nera,pollera-nera,false,37
+1371,Portan,portan,false,37
+1372,Posip Bijeli,posip-bijeli,false,483
+1373,Potamissi,potamissi,false,10
+1374,Poulsard,poulsard,false,728
+1375,Prairie Star,prairie-star,false,29
+1376,Prc,prc,false,18
+1377,Précoce de Malingre,precoce-de-malingre,false,18
+1378,Prinknadi,prinknadi,false,6
+1379,Primetta,primetta,false,37
+1380,Prinzipal,prinzipal,false,10
+1381,Prior,prior,false,43
+1382,Probus,probus,false,24
+1383,Prodest,prodest,false,4
+1384,Prokupac,prokupac,false,314
+1385,Prosecco-Lungo,prosecco-lungo,false,97
+1386,Prunesta,prunesta,false,14
+1387,Pukhliakovsky,pukhliakovsky,false,3
+1388,Pules,pules,false,14
+1389,Quagliano,quagliano,false,16
+1390,Quebranta,quebranta,false,38
+1391,Raboso Veronese,raboso-veronese,false,242
+1392,Rac 3209,rac-3209,false,18
+1393,Raffiat de Moncade,raffiat-de-moncade,false,19
+1394,Ramisco,ramisco,false,101
+1395,Ranac Bijeli,ranac-bijeli,false,5
+1396,Ranfol,ranfol,false,6
+1397,Ranna Melnishka,ranna-melnishka,false,7
+1398,Raspirosso,raspirosso,false,6
+1399,Rastajola,rastajola,false,6
+1400,Ráthay,ráthay,false,25
+1401,Räuschling,räuschling,false,185
+1402,Ravat Blanc,ravat-blanc,false,20
+1403,Rayon D'Or,rayon-d-or,false,11
+1404,Reberger,reberger,false,16
+1405,Radisson,radisson,false,28
+1406,Recantina,recantina,false,13
+1407,Refosco di Faedis,refosco-di-faedis,false,27
+1408,Regner,regner,false,19
+1409,Réselle,reselle,false,9
+1410,Retagliado Bianco,retagliado-bianco,false,7
+1411,Rèze,reze,false,57
+1412,Riesel,riesel,false,149
+1413,Rimava,rimava,false,28
+1414,Rio Grande,rio-grande,false,10
+1415,Rión,rion,false,18
+1416,Ripolo,ripolo,false,15
+1417,Ritino,ritino,false,11
+1418,Rivairenc,ricarenc,false,10
+1419,Robola,robola,false,153
+1421,Roesler,roesler,false,135
+1422,Rokaniaris,rokaniaris,false,7
+1423,Rollo,rollo,false,796
+1424,Romé,rome,false,22
+1425,Romeiko,romeiko,false,26
+1426,Romero De Hijar,romero-de-hijar,false,7
+1427,Romorantin,romorantin,false,227
+1428,Rosé du Var,rose-du-var,false,210
+1429,Rose Honey,rose-honey,false,36
+1430,Rosetta,rosetta,false,53
+1431,Rosette,rosette,false,39
+1432,Rossara Trentina,rossara-trentina,false,12
+1433,Rossese Bianco,rossese-bianco,false,48
+1434,Rossese Bianco Di Monforte,rossese-bianco-di-monforte,false,4
+1435,Rossese Bianco di San Biagio,rossese-bianco-di-san-biagio,false,13
+1436,Rossese di Campochiesa,rossese-di-campochiesa,false,55
+1437,Roussette D'Ayze,roussette-d-ayze,false,89
+1438,Rossolino Nero,rossolino-nero,false,12
+1439,Rotberger,rotberger,false,41
+1440,Rouge de Fully,rouge-de-fully,false,21
+1441,Rouge du Pays,rouge-du-pays,false,42
+1442,Roussin,roussin,false,59
+1443,Rovello Bianco,rovello-bianco,false,3
+1444,Royal de Alloza,royal-de-alloza,false,8
+1445,Royalty,royalty,false,10
+1446,Rubin,rubin,false,354
+1447,Rubin Golodrigi,rubin-golodrigi,false,6
+1448,Rubin Tairovsky,rubin-tairovsky,false,3
+1449,Rubinet,rubinet,false,34
+1450,Rubinovy Magaracha,rubinovy-magaracha,false,9
+1451,Rubintos,rubintos,false,8
+1452,Rudava,rudava,false,19
+1453,Ruen,ruen,false,53
+1454,Ruggine,ruggine,false,7
+1455,Ruzzese,ruzzese,false,9
+1456,Ryugan,ryugan,false,26
+1457,Sabato,sabato,false,23
+1458,Sabrevois,sabrevois,false,61
+1459,Sacy,sacy,false,45
+1460,Saint-Macaire,saint-macaire,false,18
+1461,Salvador,salvador,false,36
+1462,San Lunardo,san-lunardo,false,34
+1463,San Martino,san-martino,false,31
+1464,San Michele,san-michele,false,23
+1465,San Pietro,san-pietro,false,17
+1466,Sankt Laurent,sankt-laurent,false,1094
+1467,Sant'Antonio,sant-antonio,false,12
+1468,Santa Maria,santa-maria,false,31
+1469,Santa Sofia,santa-sofia,false,9
+1470,Saperavi Severny,saperavi-severny,false,158
+1471,Saphira,saphira,false,54
+1472,Sarba,sarba,false,110
+1473,Sary Pandas,sary-pandas,false,65
+1474,Schiava Grosso,schiava-grosso,false,26
+1475,Schiava Lombarda,schiava-lombarda,false,7
+1476,Sciaglin,sciaglin,false,27
+1477,Sciascinoso,sciascinoso,false,61
+1478,Scimiscia,scimiscia,false,16
+1479,Seara Nova,seara-nova,false,43
+1480,Sefka,sefka,false,9
+1481,Segalin,segalin,false,30
+1482,Semidano,semidano,false,59
+1483,Sercialinho,sercialinho,false,51
+1484,Serina e Zeze,serina-e-zeze,false,10
+1485,Servant,servant,false,7
+1486,Severny,severny,false,6
+1487,Seyval Noir,seyval-noir,false,61
+1488,Sgavetta,sgavetta,false,16
+1489,Shavkapito,shavkapito,false,45
+1490,Shesh i Bardhë,shish-i-bardhe,false,35
+1491,Shesh i Zi,shesh-i-zi,false,39
+1492,Shevka,shevka,false,30
+1494,Shirvanshahy,shirvanshahy,false,17
+1495,Sibirkovi,sibirkovi,false,188
+1496,Sidalan,sidalan,false,19
+1497,Sideritis,sideritis,false,30
+1499,Sila,sila,false,45
+1500,Sirame,sirame,false,18
+1501,Sirmium,sirmium,false,7
+1502,Sklava,sklava,false,16
+1503,Skopelitiko,skopelitiko,false,11
+1504,Skrlet,skrlet,false,70
+1505,Skylopnichtis,skylopnichtis,false,13
+1506,Slankamenka,slankamenka,false,20
+1507,Soldaia,soldaia,false,11
+1508,Solnechnodolinksy,solnechnodolinsky,false,19
+1509,Soperga,soperga,false,6
+1510,Sorbigno,sorbigno,false,10
+1511,Spergola,spergola,false,105
+1512,Spourtiko,spourtiko,false,16
+1513,St Croix,st-croix,false,146
+1514,St Vincent,st-vincent,false,64
+1515,Stavroto,stavroto,false,58
+1516,Storgozia,storgozia,false,7
+1517,Sukholimansky Bely,sukholmimansky-bely,false,6
+1518,Sultaniye,sultaniye,false,137
+1519,Sumoll,sumoll,false,492
+1520,Sumoll Blanc,sumoll-blanc,false,36
+1521,Suppezza,suppezza,false,12
+1522,Suscan,suscan,false,11
+1523,Swenson Red,swenson-red,false,19
+1524,Swenson White,swenson-white,false,27
+1525,Sykiotis,sykiotis,false,11
+1526,Syriki,syriki,false,134
+1527,Tamurra,tamurra,false,14
+1528,Tarrango,tarrango,false,31
+1529,Tinta Carvalha,tinta-carvalha,false,59
+1530,Tavkveri,tavkveri,false,90
+1531,Teca,teca,false,12
+1532,Temparia,temparia,false,46
+1533,Téoulier Noir,teoulier-noir,false,12
+1534,Terbash,terbash,false,13
+1535,Termarina Rossa,termarina-rossa,false,12
+1536,Terrantez,terrantez,false,173
+1537,Terrantez Da Terceira,terrantez-da-tirceira,false,13
+1538,Terrantes do Pico,terrantes-do-pico,false,24
+1539,Terret,terret,false,447
+1540,Theiako Mavro,theiako-mavro,false,10
+1541,Thrapsathiri,thrapsathiri,false,74
+1542,Tigrani,tigrani,false,10
+1543,Tinto Velasco,tinto-velasco,false,34
+1544,Tintore Di Tramonti,tinto-di-tramonti,false,37
+1545,Torrontés Mendocino,torrontes-mendocino,false,373
+1546,Torrontés Riojano,torrontes-riojano,false,287
+1547,Torrontés Sanjuanino,torrontes-sanjuanino,false,51
+1548,Torysa,torysa,false,13
+1549,Tourkopoula,tourkopoula,false,4
+1550,Trbljan,trbljan,false,14
+1551,Trebbiano D'Abruzzo,trebbiano-d-abruzzo,false,924
+1552,Trebbiano Giallo,trebbiano-giallo,false,92
+1553,Trebbiano Modenese,trebbiano-modenese,false,29
+1554,Trebbiano Romagnolo,trebbiano-romagnolo,false,109
+1555,Trebbiano Spoletino,trebbiano-spoletino,false,136
+1556,Trebbiano Toscano,trebbiano-toscano,false,789
+1557,Tressot,tressot,false,17
+1558,Trevisana Nera,trevisana-nera,false,7
+1559,Triomphe,triomphe,false,35
+1560,Trnjak,trnjak,false,25
+1561,Tronto,tronto,false,6
+1562,Tsaoussi,tsaoussi,false,23
+1563,Tsimladar,tsimladar,false,7
+1564,Tsimlyansky Cherny,tsimlyansky-cherny,false,449
+1565,Tsitska,tsitska,false,81
+1566,Tsolikouri,tsolikouri,false,165
+1567,Tsulukidzis Tetra,tsulukidzis-tetra,false,11
+1568,Tuo Xian,tuo-xian,false,5
+1569,Tyrian,tyrian,false,20
+1570,Ucelut,ucelut,false,26
+1571,Urla Karasi,urla-karasi,false,17
+1572,Usakhelouri,usakhelouri,false,45
+1573,Uva Della Cascina,uva-della-cascina,false,11
+1574,Uva Longanesi,uva-longanesi,false,29
+1575,Uvalino,uvalino,false,24
+1576,Uva Tosca,uva-tosca,false,25
+1577,Vah,vah,false,29
+1578,Valentino Nero,valentino-nero,false,34
+1579,Valiant,valiant,false,17
+1580,Valvin Muscat,valvin-muscat,false,42
+1581,Van Buren,van-buren,false,16
+1582,Vandal-Cliche,vandal-cliche,false,39
+1583,Vasilaki,vasilaki,false,52
+1584,VB 32-7,vb-32-7,false,17
+1585,VB 91-26-7,vb-91-26-7,false,12
+1586,Vega,vega,false,15
+1587,Verdea,verdea,false,91
+1588,Verdejo Serrano,verdejo-serrano,false,24
+1589,Verdello,verdello,false,338
+1590,Verdesse,verdesse,false,35
+1591,Verdoncho,verdoncho,false,12
+1592,Verduzzo Trevigiano,verduzzo-trevigiano,false,32
+1593,Veritas,veritas,false,36
+1594,Vermentino Nero,vermentino-nero,false,84
+1595,Vernaccia di Oristano,vernaccia-di-oristano,false,66
+1596,Vernaccia di San Gimignano,vernaccia-di-san-gimignano,false,416
+1597,Versoaln,versoaln,false,10
+1598,Vertzami,vertzami,false,35
+1599,Vidiano,vidiano,false,186
+1600,Vien de Nus,vien-di-nus,false,42
+1601,Violento,violento,false,21
+1602,Vitovska,vitovska,false,323
+1603,Vlachiko,vlachiko,false,36
+1604,Vlaska,vlaska,false,12
+1605,Vlosh,vlosh,false,16
+1606,Volitsa Mavri,volitsa-mavri,false,7
+1607,Voskeat,voskeat,false,110
+1608,Vugava,vugava,false,41
+1609,Vuillermin,vuillermin,false,23
+1610,Würzer,wurzer,false,120
+1611,Yamabudo,yamabudo,false,78
+1612,Yapincak,yapincak,false,29
+1613,Yediveren,yediveren,false,6
+1614,Zacinak,zacinak,false,16
+1615,Zlatarica Vrgorska,zlatarica-vrgorska,false,24
+1616,Zakynthino,zakynthino,false,24
+1617,Zalagyöngye,zalagyöngye,false,11
+1618,Zamarrica,zamarrica,false,13
+1619,Zametovka,zametovka,false,16
+1620,Zefir,zefir,false,18
+1621,Zelen,zelen,false,177
+1622,Zengö,zengo,false,28
+1623,Zenit,zenit,false,196
+1624,Zéta,zeta,false,100
+1625,Zeusz,zeusz,false,47
+1626,Zghihara de Husi,zghihara-de-husi,false,49
+1627,Zupljanka,zupljanka,false,28
+1628,Zilavka,zilavka,false,186
+1629,Zizak,zizak,false,22
+1630,Zlahtina,zlahtina,false,69
+1631,Petit Meslier,petit-meslier,false,59
+1632,Petit Rouge,petit-rouge,false,278
+1633,Grapairiol,grapariol,false,12
+1634,Tinta Castanal,tinta-castanal,false,19
+1635,Béquignol Noir,bequignol-noir,false,12
+1636,Berdomenel,berdomenel,false,6
+1637,Besgano Bianco,besgano-bianco,false,8
+1638,Bianca,bianca,false,323
+1639,Biancolella,biancolella,false,177
+1640,Biancone di Portoferraio,biancone-di-portoferraio,false,6
+1641,Biancu Gentile,biancu-gentile,false,67
+1642,Colobel,colobel,false,17
+1643,Drnekusa,drnekusa,false,11
+1644,Asprinio Bianco,asprinio-bianco,false,80
+1645,Morellino,morellino,false,267
+1657,Obaideh,obaideh,false,50
+1665,Corinto Nero,corinto-nero,false,57
+1666,Trollinger,trollinger,false,961
+1667,Raisaine,raisaine,false,34
+1668,Baladi,baladi,false,27
+1669,Dabouki,dabouki,false,15
+1670,Melon de Bourgogne,melon-de-bourgogne,false,1401
+1671,Alibernet,alibernet,false,571
+1672,Pigato,pigato,false,406
+1673,Merwah,merwah,false,37
+1674,Rischer Rubin,rischerrubin,false,3
+1675,Maturana Tinto,maturana-tinto,false,81
+1676,Tinta Molle,tinta-molle,false,3
+1677,Sirica,sirica,false,17
+1678,Vital,vital,false,251
+1680,Tintilla de Rota,tintilia-de-rota,false,128
+1681,Alicante Ganzin,alicante-ganzin,false,96
+1682,Burgund,burgund,false,427
+1683,Cramposie,cramposie,false,50
+1684,Cadarca,cadarca,false,90
+1685,Plavaie,plavaie,false,20
+1686,Riesling Italico,riesling-italico,false,543
+1687,Tinta Negra Mole,tinta-negra-mole,false,193
+1688,Albarola,albarola,false,178
+1689,Malvar,malvar,false,80
+1690,Verdanel,verdanel,false,12
+1691,Schwarzriesling,schwarzriesling,false,624
+1692,Sciacarello,sciacarello,false,497
+1693,Tinaktorogos,tinaktorogos,false,5
+1694,Lagorthi,lagorthi,false,11
+1695,Asproudes,asproudes,false,21
+1696,Nera Dei Baisi,nera-dei-baisi,false,4
+1697,Glera,glera,false,1319
+1698,Vradiano,vradiano,false,13
+1699,Mouhtaro,mouhtaro,false,14
+1700,Sabbaghieh,sabbaghieh,false,3
+1701,Pais,pais,false,113
+1702,Mavrokoudoura,mavrokoudoura,false,4
+1703,Moschato Spinas,moschato-spinas,false,8
+1704,Souvignier Gris,souvignier-gris,false,20
+1705,Goldtraminer,goldtraminer,false,1
+1706,Chasselas Noir,chasselas-noir,false,4
+1707,Blauer Gutedel,blauer-gutedel,false,0
+1708,Gutedel,gutedel,false,61
+1709,Servanin,servanin,false,1
+1710,Garnacha Tintonera,garnacha-tintonera,false,77
+1711,Neyret,neyret,false,2
+1712,Premetta,premetta,false,1
+1713,Johannisberg,johannisberg,false,98
+1714,Bruñal,brunal,false,2
+1715,Rossese,rossese,false,36
+1716,Tinta Cão,tinta-cao,false,171
+1717,Roobernet,roobernet,false,1
+1718,Cagnulari,cagnulari,false,27
+1719,Rolle,rolle,false,257
+1720,Prunelard,prunelard,false,16
+1721,Famoso,famoso,false,15
+1722,Escanyavella,escanyavella,false,7
+1723,Lefkada,lefkada,false,9
+1724,Yiannoudi,yiannoudi,false,6
+1725,Santameriana,santameriana,false,1
+1726,Begleri,begleri,false,4
+1727,Voudomato,voudomato,false,1
+1728,Samtrot,samtrot,false,3
